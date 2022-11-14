@@ -1,9 +1,2 @@
 # Construction-of-genomic-prediction-model-for-maize-CUBIC-population-yield-based-on-directed-learning
-## '5wSNP':
-### 1.'dataset':Datasets of CUBIC population,including training set (lines:394,genome:5w SNPs,transctiptome:26743,phenome:20) and testing set(lines:1008,genome:5w SNPs,phenome:20).
-### 2.'code.R':The script of the parameter selection, training and testing process.
-
-## '634SNP':
-### 1.'dataset':Datasets of CUBIC population,including training set (lines:394,genome:634 tag SNPs,phenome:20) and testing set(634 tag SNPs,phenome:20)
-### 2.'code.R':The script of training and testing process of G2EW model with 34 tag SNPs.
-### 3.'model':The G2EW model
+In this study, by observing not only the bottle neck of integrating genomic and transcriptomic information, but also a non-negligible advance of integrating other agronomic trait information, we build a novel MLLASSO architecture to successively integrate genomic, transcriptomic and phenotypic (other agronomic traits) information into a single model. We uploaded two projects at two density of SNPs: 5w SNPs (the optimal density) and 634 tag SNPs (selected by our model which are related to the EW prediction).  
