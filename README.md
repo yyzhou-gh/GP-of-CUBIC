@@ -3,8 +3,8 @@ In this study, by observing not only the successful experience of the directed l
 We uploaded two projects at two density of SNPs: 5w SNPs (the optimal density) and 634 tag SNPs (selected by our model which are related to the EW prediction).  
 
 ## Dependencies
-The program requires:
-● R==3.6
-● cv.glmnet
-● glmnet
-● Matrix
+The program requires:  
+● R==3.6  
+● cv.glmnet  
+● glmnet  
+● Matrix  
